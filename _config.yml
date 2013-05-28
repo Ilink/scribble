@@ -1,5 +1,5 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            Ilink.io
+description:      Blog
 url:              # Site url.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -7,14 +7,14 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links: 
-  - name:         About
-    url:          /about
+  # - name:         About
+  #   url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://ilink.io
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:ian@ilink.io
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/ilink
 
 pygments:         true
 permalink:        pretty

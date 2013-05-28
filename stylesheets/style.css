@@ -17,7 +17,7 @@ body {
     -webkit-font-smoothing: antialiased; }
 
 #go-back-home {
-  margin: 40px 0 0; }
+  margin: 0px 0 0; }
   #go-back-home:hover {
     background-image: none; }
 
@@ -90,7 +90,7 @@ footer {
   width: 100%;
   max-width: 600px;
   background: #fff;
-  margin: 40px auto 20px;
+  margin: 0px auto 20px;
   border-radius: 7px;
   border: 1px solid #eee;
   position: relative; }
@@ -335,3 +335,11 @@ code {
   margin-left: -340px; }
 .paging .right {
   margin-left: 320px; }
+
+
+#site-title {
+  position: absolute;
+  right: 10px;
+  top: -32px;
+  font-weight: bold;
+}
